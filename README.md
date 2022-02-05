@@ -1,8 +1,8 @@
 # Time Of Day
 ------------------------------------
-## Buy in Itch.io for support this plugin: [Link](https://jaykuellar.itch.io/godot-time-of-day-plugin)
+## Itch.io: [Link](https://jaykuellar.itch.io/godot-time-of-day-plugin)
 
-## New Repo(for v2.0): [Link](https://github.com/Jay7c/jc.time-of-day)
+## New Repo(for godot 4): [Link](https://github.com/Jay7c/jc.time-of-day)
 ------------------------------------
 
 Dynamic skydome and ToD plugin for godot engine.
@@ -28,7 +28,7 @@ Dynamic skydome and ToD plugin for godot engine.
 - The sky model and clouds does not have support for altitude variation. 
 
 ## Future:
-- Currently it is experimental, for godot 4 I will improve the design and the plugin in general. 
+- Currently it is experimental, for godot 4 I will improve the plugin(I will use this plugin in my game)
 
 ## Feedback is welcome.
 ------------------------------------
